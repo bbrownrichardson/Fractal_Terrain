@@ -1,7 +1,9 @@
 # Fractal_Terrain
 Final project for computer graphics course
+
 Contributors: Brianna Richardson, Blaire Bosley, and Tristan Lopus
 
+Programs generates terrain with different options in a skybox.
 
 * Computer Graphics - Project 4
 
