@@ -5,7 +5,7 @@ Contributors: Brianna Richardson, Blaire Bosley, and Tristan Lopus
 
 Programs generates terrain with different options in a skybox.
 
-* Computer Graphics - Project 4
+Computer Graphics - Project 4
 
 ** Controls
 - R: load a new terrain
